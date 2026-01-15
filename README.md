@@ -1,4 +1,4 @@
-# Web Scraping (Python)
+# Web Scraping (Python and Julia Programming Language)
 
 Webscraping allows for the collection of raw data from websites for the use of analytics or predictive modelling.
 
